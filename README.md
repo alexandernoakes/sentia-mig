@@ -1,3 +1,7 @@
+# Project Overview
+[Detailed Notes shaping the project and a homebase](https://www.notion.so/Sentia-Tech-Assesment-e917d2cf6c004f8eb8c66e85b0523ea2)
+
+
 # Infrastructure code for "Sengita-Mig v1.0"
 
 This repository contains infrastructure as Terraform configurations which were automatically generated from blueprint created using [cloudcraft.co](https://cloudcraft.co/app).
